@@ -1,0 +1,5 @@
+#!/bin/sh
+
+source /Users/jsn/landing/projects/govee_control/venv/bin/activate
+
+python /Users/jsn/landing/projects/govee_control/govee_control.py
